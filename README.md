@@ -15,9 +15,9 @@ Read our [contributing guidelines](CONTRIBUTING.md) if you wish to propose a cha
 
 * [Connect-Dart](https://github.com/connectrpc/connect-dart) - The official Connect implementation for Dart.
 
-## JavaScript and TypeScript
+## TypeScript and JavaScript
 
-* [Connect-ES](https://github.com/connectrpc/connect-es) - The official Connect implementation for JavaScript and TypeScript.
+* [Connect-ES](https://github.com/connectrpc/connect-es) - The official Connect implementation for TypeScript and JavaScript.
 
 ## Kotlin
 
