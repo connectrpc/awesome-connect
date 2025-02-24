@@ -6,7 +6,7 @@ Read our [contribution guidelines](CONTRIBUTING.md) if you wish to propose a cha
 
 - [Awesome Connect](#awesome-connect)
   - [Dart](#dart)
-  - [JavaScript and TypeScript](#javascript-and-typescript)
+  - [TypeScript and JavaScript](#typescript-and-javascript)
   - [Kotlin](#kotlin)
   - [Go](#go)
   - [Swift](#swift)
