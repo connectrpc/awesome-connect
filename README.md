@@ -6,28 +6,28 @@ Read our [contribution guidelines](CONTRIBUTING.md) if you wish to propose a cha
 
 - [Awesome Connect](#awesome-connect)
   - [Dart](#dart)
-  - [TypeScript and JavaScript](#typescript-and-javascript)
-  - [Kotlin](#kotlin)
   - [Go](#go)
+  - [Kotlin](#kotlin)
   - [Swift](#swift)
+  - [TypeScript and JavaScript](#typescript-and-javascript)
 
 ## Dart
 
 * [Connect-Dart](https://github.com/connectrpc/connect-dart) - The official Connect implementation for Dart.
 
-## TypeScript and JavaScript
+## Go
 
-* [Connect-ES](https://github.com/connectrpc/connect-es) - The official Connect implementation for TypeScript and JavaScript.
+* [Connect-Go](https://github.com/connectrpc/connect-go) - The official Connect implementation for Go.
 
 ## Kotlin
 
 * [Connect-Kotlin](https://github.com/connectrpc/connect-kotlin) - The official Connect implementation for Kotlin.
 
-## Go
-
-* [Connect-Go](https://github.com/connectrpc/connect-go) - The official Connect implementation for Go.
-
 ## Swift
 
 * [Connect-Swift](https://github.com/connectrpc/connect-swift) - The official Connect implementation for Swift.
+
+## TypeScript and JavaScript
+
+* [Connect-ES](https://github.com/connectrpc/connect-es) - The official Connect implementation for TypeScript and JavaScript.
 
