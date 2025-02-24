@@ -2,7 +2,7 @@
 
 A curated list of projects and resources in the Connect ecosystem.
 
-Read our [contributing guidelines](CONTRIBUTING.md) if you wish to propose a change.
+Read our [contribution guidelines](CONTRIBUTING.md) if you wish to propose a change.
 
 - [Awesome Connect](#awesome-connect)
   - [Dart](#dart)
