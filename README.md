@@ -18,6 +18,9 @@ Read our [contribution guidelines](CONTRIBUTING.md) if you wish to propose a cha
 * [connectrpc.com](https://github.com/connectrpc/connectrpc.com) - The connectrpc.com website.
 * [Connect-gRPC Envoy Bridge Demo](https://github.com/connectrpc/envoy-demo) - Demo of the [Connect-gRPC bridge](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/connect_grpc_bridge_filter) in Envoy.
 
+Third-party
+* [gRPC-Web Dev Tools](https://github.com/SafetyCulture/grpc-web-devtools)
+
 ## Dart
 
 * [Connect-Dart](https://github.com/connectrpc/connect-dart) - The Connect RPC runtime for Dart.
@@ -33,6 +36,9 @@ Read our [contribution guidelines](CONTRIBUTING.md) if you wish to propose a cha
 * [otelconnect](https://github.com/connectrpc/otelconnect-go) - [OpenTelemetry](https://opentelemetry.io/) tracing and metrics collection for Connect servers and clients.
 * [validate](https://github.com/connectrpc/validate-go) - A Connect interceptor for [protovalidate-go](https://github.com/bufbuild/protovalidate-go).
 * [Vanguard](https://github.com/connectrpc/vanguard-go) - Transcode between any/all of gRPC, gRPC-Web, Connect, or REST.
+
+Third-party
+* [connectproto](https://github.com/akshayjshah/connectproto) - Customize the default JSON and binary codecs from [Connect-Go](https://github.com/connectrpc/connect-go).
 
 ## Kotlin
 
