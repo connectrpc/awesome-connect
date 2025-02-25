@@ -5,26 +5,22 @@ A curated list of projects and resources in the Connect ecosystem.
 Read our [contribution guidelines](CONTRIBUTING.md) if you wish to propose a change.
 
 - [Awesome Connect](#awesome-connect)
-  - [Connect](#connect)
+  - [General](#general)
   - [Dart](#dart)
-  - [Envoy](#envoy)
   - [Go](#go)
   - [Kotlin](#kotlin)
   - [Swift](#swift)
   - [TypeScript and JavaScript](#typescript-and-javascript)
 
-## Connect
+## General
 
 * [connectrpc.com](https://github.com/connectrpc/connectrpc.com) - The connectrpc.com website.
 * [conformance](https://github.com/connectrpc/conformance) - Connect, gRPC, and gRPC-Web interoperability tests.
+* [Connect-gRPC Envoy Bridge Demo](https://github.com/connectrpc/envoy-demo) - Demo of the [Connect-gRPC bridge](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/connect_grpc_bridge_filter) in Envoy.
 
 ## Dart
 
 * [Connect-Dart](https://github.com/connectrpc/connect-dart) - The Connect RPC runtime for Dart.
-
-## Envoy
-
-* [Connect-gRPC Envoy Bridge Demo](https://github.com/connectrpc/envoy-demo) - Demo of the [Connect-gRPC bridge](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/connect_grpc_bridge_filter) in Envoy.
 
 ## Go
 
