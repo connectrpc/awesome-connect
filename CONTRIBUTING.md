@@ -13,6 +13,8 @@ If not, then open a new pull request with the following information:
   ```md
   - [project-name](http://example.com/) - A short description that ends with a period.
   ```
+  Projects that don't live inside the [Connect GitHub org](https://github.com/connectrpc) should be placed in a "Third-party" list in the relevant section (add this list if it doesn't already exist).
+  
   Please check your spelling and grammar, and remove any trailing whitespace.
 
 ## Acceptance criteria
