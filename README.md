@@ -14,8 +14,8 @@ Read our [contribution guidelines](CONTRIBUTING.md) if you wish to propose a cha
 
 ## General
 
-* [connectrpc.com](https://github.com/connectrpc/connectrpc.com) - The connectrpc.com website.
 * [conformance](https://github.com/connectrpc/conformance) - Connect, gRPC, and gRPC-Web interoperability tests.
+* [connectrpc.com](https://github.com/connectrpc/connectrpc.com) - The connectrpc.com website.
 * [Connect-gRPC Envoy Bridge Demo](https://github.com/connectrpc/envoy-demo) - Demo of the [Connect-gRPC bridge](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/connect_grpc_bridge_filter) in Envoy.
 
 ## Dart
