@@ -19,7 +19,7 @@ Read our [contribution guidelines](CONTRIBUTING.md) if you wish to propose a cha
 * [Connect-gRPC Envoy Bridge Demo](https://github.com/connectrpc/envoy-demo) - Demo of the [Connect-gRPC bridge](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/connect_grpc_bridge_filter) in Envoy.
 
 Third-party
-* [gRPC-Web Dev Tools](https://github.com/SafetyCulture/grpc-web-devtools)
+* [gRPC-Web Dev Tools](https://github.com/SafetyCulture/grpc-web-devtools) - Browser extension for debugging gRPC-Web and Connect network requests (Chrome and Firefox)
 
 ## Dart
 
