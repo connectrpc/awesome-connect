@@ -41,7 +41,7 @@ Third-party
 * [grpchealth](https://github.com/connectrpc/grpchealth-go) - gRPC compatible health checks for any net/http server — including those built with Connect.
 * [grpcreflect](https://github.com/connectrpc/grpcreflect-go) - gRPC compatible server reflection API for any net/http server — including those built with Connect.
 * [otelconnect](https://github.com/connectrpc/otelconnect-go) - [OpenTelemetry](https://opentelemetry.io/) tracing and metrics collection for Connect servers and clients.
-* [OpenTelemetry for Connect-Go](https://buf.build/blog/connect-opentelemetry-go) - otelconnect-go launch blog post.
+* 📝 [OpenTelemetry for Connect-Go](https://buf.build/blog/connect-opentelemetry-go) - otelconnect-go launch blog post.
 * [validate](https://github.com/connectrpc/validate-go) - A Connect interceptor for [protovalidate-go](https://github.com/bufbuild/protovalidate-go).
 * [Vanguard](https://github.com/connectrpc/vanguard-go) - Transcode between any/all of gRPC, gRPC-Web, Connect, or REST.
 
@@ -64,5 +64,5 @@ Third-party
 * [Connect-ES examples](https://github.com/connectrpc/examples-es) - Example projects using Connect-ES with various TypeScript web frameworks and tooling.
 * [Connect Playwright](https://github.com/connectrpc/connect-playwright-es) - Utilities for writing [Playwright](https://playwright.dev) tests.
 * [Connect Query](https://github.com/connectrpc/connect-query-es) - A wrapper around [TanStack Query](https://tanstack.com/query) for Connect. 
-* [Introducing Connect Query](https://buf.build/blog/introducing-connect-query) - Connect Query launch blog post.
+* 📝 [Introducing Connect Query](https://buf.build/blog/introducing-connect-query) - Connect Query launch blog post.
 * 📝 [Connect RPC for JavaScript](https://buf.build/blog/connect-es-v2) - Connect-ES v2 launch blog post.
