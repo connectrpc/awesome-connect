@@ -47,6 +47,7 @@ Third-party
 
 Third-party
 * [connectproto](https://github.com/akshayjshah/connectproto) - Customize the default JSON and binary codecs from [Connect-Go](https://github.com/connectrpc/connect-go).
+* [fauxrpc](https://github.com/sudorandom/fauxrpc) - Generate fake implementations of gRPC, gRPC-Web, Connect, and REST services to assist in testing.
 
 ## Kotlin
 
