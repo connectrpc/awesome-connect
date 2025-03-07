@@ -48,6 +48,7 @@ Third-party
 Third-party
 * [connectproto](https://github.com/akshayjshah/connectproto) - Customize the default JSON and binary codecs from [Connect-Go](https://github.com/connectrpc/connect-go).
 * [example-connect-https](https://github.com/sudorandom/example-connect-https) - A simple Go example that shows how to run a ConnectRPC server with TLS and how to connect to it with a client. 
+* [fauxrpc](https://github.com/sudorandom/fauxrpc) - Generate fake implementations of gRPC, gRPC-Web, Connect, and REST services to assist in testing.
 
 ## Kotlin
 
