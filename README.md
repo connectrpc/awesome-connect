@@ -65,6 +65,7 @@ Third-party
 * [Connect-ES](https://github.com/connectrpc/connect-es) - The Connect RPC runtime for TypeScript and JavaScript.
 * [Connect-ES examples](https://github.com/connectrpc/examples-es) - Example projects using Connect-ES with various TypeScript web frameworks and tooling.
 * [Connect Playwright](https://github.com/connectrpc/connect-playwright-es) - Utilities for writing [Playwright](https://playwright.dev) tests.
-* [Connect Query](https://github.com/connectrpc/connect-query-es) - A wrapper around [TanStack Query](https://tanstack.com/query) for Connect. 
+* [Connect Query](https://github.com/connectrpc/connect-query-es) - A wrapper around [TanStack Query](https://tanstack.com/query) for Connect.
+* [`@depot/connectrpc-workers`](https://github.com/depot/connectrpc-workers) - A plugin for running Connect servers on Cloudflare Workers.
 * 📝 [Introducing Connect Query](https://buf.build/blog/introducing-connect-query) - Connect Query launch blog post.
 * 📝 [Connect RPC for JavaScript](https://buf.build/blog/connect-es-v2) - Connect-ES v2 launch blog post.
