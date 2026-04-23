@@ -6,12 +6,13 @@ Read our [contribution guidelines](CONTRIBUTING.md) if you wish to propose a cha
 
 ## Contents
 
-- [General](#general)
-- [Dart](#dart)
-- [Go](#go)
-- [Kotlin](#kotlin)
-- [Swift](#swift)
-- [TypeScript and JavaScript](#typescript-and-javascript)
+* [General](#general)
+* [Dart](#dart)
+* [Go](#go)
+* [Kotlin](#kotlin)
+* [Swift](#swift)
+* [TypeScript and JavaScript](#typescript-and-javascript)
+* [Python](#python)
 
 ## General
 
@@ -47,7 +48,7 @@ Third-party
 
 Third-party
 * [connectproto](https://github.com/akshayjshah/connectproto) - Customize the default JSON and binary codecs from [Connect-Go](https://github.com/connectrpc/connect-go).
-* [example-connect-https](https://github.com/sudorandom/example-connect-https) - A simple Go example that shows how to run a ConnectRPC server with TLS and how to connect to it with a client. 
+* [example-connect-https](https://github.com/sudorandom/example-connect-https) - A simple Go example that shows how to run a ConnectRPC server with TLS and how to connect to it with a client.
 * [fauxrpc](https://github.com/sudorandom/fauxrpc) - Generate fake implementations of gRPC, gRPC-Web, Connect, and REST services to assist in testing.
 
 ## Kotlin
@@ -65,6 +66,10 @@ Third-party
 * [Connect-ES](https://github.com/connectrpc/connect-es) - The Connect RPC runtime for TypeScript and JavaScript.
 * [Connect-ES examples](https://github.com/connectrpc/examples-es) - Example projects using Connect-ES with various TypeScript web frameworks and tooling.
 * [Connect Playwright](https://github.com/connectrpc/connect-playwright-es) - Utilities for writing [Playwright](https://playwright.dev) tests.
-* [Connect Query](https://github.com/connectrpc/connect-query-es) - A wrapper around [TanStack Query](https://tanstack.com/query) for Connect. 
+* [Connect Query](https://github.com/connectrpc/connect-query-es) - A wrapper around [TanStack Query](https://tanstack.com/query) for Connect.
 * 📝 [Introducing Connect Query](https://buf.build/blog/introducing-connect-query) - Connect Query launch blog post.
 * 📝 [Connect RPC for JavaScript](https://buf.build/blog/connect-es-v2) - Connect-ES v2 launch blog post.
+
+## Python
+
+* [Connect-Python](https://github.com/connectrpc/connect-python) - The Connect RPC runtime for Python.
