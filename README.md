@@ -56,6 +56,11 @@ Third-party
 * [Connect-Kotlin](https://github.com/connectrpc/connect-kotlin) - The Connect RPC runtime for Kotlin.
 * 📝 [Announcing Connect-Kotlin](https://buf.build/blog/announcing-connect-kotlin) - Connect-Kotlin launch blog post.
 
+## Rust
+
+Third-party
+* [Connect-Rust](https://github.com/anthropics/connect-rust) - Connect RPC runtime for Rust.
+
 ## Swift
 
 * [Connect-Swift](https://github.com/connectrpc/connect-swift) - The Connect RPC runtime for Swift.
