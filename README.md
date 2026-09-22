@@ -28,6 +28,7 @@ Third-party
 * [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc) - List of gRPC projects that may be useful if you have configured your Connect clients to use the gRPC protocol.
 * [buf curl](https://buf.build/docs/curl/usage/) - Invoke RPCs from the command line on a Connect, gRPC, or gRPC-Web server.
 * [gRPC-Web Dev Tools](https://github.com/SafetyCulture/grpc-web-devtools) - Browser extension for debugging gRPC-Web and Connect network requests (Chrome and Firefox).
+* [FeeGuard](https://feeguard.dev) - Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 
 ## Dart
 
